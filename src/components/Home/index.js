@@ -1,4 +1,3 @@
-import LogoTitle from "../../assets/p.png";
 import { Link } from "react-router-dom";
 import './index.scss'
 import { useState } from "react";
@@ -9,7 +8,7 @@ import Logo from './Logo'
 const Home= () => {
     const [letterClass]=useState('text-animate')
     const nameArray=['P','a','i','g','e']
-    const jobArray=['A',' ','S','o','f','t','w','a','r','e',' ','E','n','g','i','n','e','e','r']
+    const jobArray=['A','','S','o','f','t','w','a','r','e',' ','E','n','g','i','n','e','e','r']
 
     return(
         <div className="container home-page">
