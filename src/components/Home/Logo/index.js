@@ -6,6 +6,7 @@ const Logo = () => {
   return (
     <div className="logo-container" >
       <img
+        className="solid-logo"
         src={Me}
         alt="JavaScript,  Developer"
       />
