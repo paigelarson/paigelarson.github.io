@@ -10,8 +10,6 @@ const Logo = () => {
         src={Me}
         alt="JavaScript,  Developer"
       />
-
-     
     </div>
   )
 }
