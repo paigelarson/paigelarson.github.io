@@ -1,13 +1,9 @@
-import { useEffect, useRef } from 'react'
-import gsap from 'gsap-trial'
+import { useRef } from 'react'
 import Me from '../../../assets/me.jpg'
 import './index.scss'
 
 const Logo = () => {
   const bgRef = useRef()
-  const outlineLogoRef = useRef()
-  const solidLogoRef = useRef()
-
   return (
     <div className="logo-container" ref={bgRef}>
       <img
