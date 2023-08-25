@@ -30,7 +30,7 @@ const Home= () => {
                     CONTACT
                 </Link>
             </div>
-            
+            <Logo/>
         </div>
     )
 }
