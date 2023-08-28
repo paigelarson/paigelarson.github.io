@@ -1,6 +1,6 @@
 import './index.scss'
 import { Link, NavLink } from 'react-router-dom'
-import resume from '../../assets/Paige_Larson_Resume.pdf'
+import resume from '../../assets/Paige Larson, Resume.pdf'
 import Logo from '../../assets/initials.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faDiagramProject, faEnvelope, faFileLines, faHome, faUser } from '@fortawesome/free-solid-svg-icons'
@@ -29,10 +29,11 @@ const Sidebar = () => (
                 <FontAwesomeIcon icon={faEnvelope} color='#cc8b86' />
             </NavLink>
 
-            <a href={resume} target="_blank" rel="noreferrer" >
+            <a href={resume} target="_blank" rel="noreferrer" exact="true" activeclassname="active" className="resume-link">
                 <FontAwesomeIcon icon={faFileLines} color='#cc8b86' />
             </a>
 
+            
         </nav>
         <ul>
             <li>
