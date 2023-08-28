@@ -36,7 +36,7 @@ const Contact = () => {
                         />
                     </h1>
                     <p>
-                            I'm always open to projects and opportunity, so feel free to reach out with any questions or comments via email using the form below. You can also peruse my github and linked in pages by clicking the icons in the bottom left corner.
+                            I'm always available to chat, so feel free to reach out with any questions or comments via email using the form below. You can also peruse my github and linked in pages by clicking the icons in the bottom left corner.
                     </p>
                     <div className='contact-form'>
                         <form ref={refForm} onSubmit={sendEmail}>

@@ -10,7 +10,7 @@
 }
 
 .tags{
-    color: #ffd700;
+    color: #E8CD73;
     opacity: 0.6;
     position: absolute;
     bottom: 0;
@@ -36,6 +36,7 @@
     transform-style: preserve-3d;
     animation: fadeIn 1s forwards;
     animation-delay: 1s;
+    white-space: normal;
 }
 
 .about-page, .contact-page{
@@ -50,10 +51,14 @@
         max-height: 90%;
         z-index: 4;
 
+        .abouts{
+            width: 75%;
+        }
+
         h1{
             font-size: 53px;
             font-family: 'Coolvetica';
-            color: #ffd700;
+            color: #E8CD73;
             font-weight: 400;
             margin-top: 0;
             position: relative;
@@ -83,9 +88,10 @@
             }
         }
 
+       
         p{
-            font-size: 18px;
-            color: #ffd700;
+            font-size: 24px;
+            color: #f4f2de;
             font-family: 'Coolvetica';
             font-weight: 300;
             min-width: fit-content;
