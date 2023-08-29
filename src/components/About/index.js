@@ -56,8 +56,8 @@ const About = () => {
                     heavily involved with Bruinracing's Baja SAE racing team, where I, as electronics lead, oversee the code design and manufacturing of an Electronic 
                     Transmission System (you can learn more about this in the projects section). </p>
 
-                <p>When I'm not glued to my computer, I enjoy aquainting myself with the great outdoors. Whether its hiking, camping, running, or just reading a book in my hammock, spending time in the sunshine
-                    is my favorite way to relax. I also enjoy expressing my creativity outside of engineering by tinkering, painting, and sewing</p>
+                <p>When I'm not glued to my computer, I enjoy aquainting myself with the great outdoors. Whether its hiking, skiing, running, or just reading a book in my hammock, spending time in the sunshine
+                    is my favorite way to relax. I also enjoy expressing my creativity outside of engineering by tinkering, painting, and sewing.</p>
                 </div>
             </div>
 
