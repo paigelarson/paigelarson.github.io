@@ -51,12 +51,11 @@ const About = () => {
                     website development and game design to embedded systems and controls algorithms, I'm passionate about taking my projects throught the full design cycle from scheme 
                     to plan to product. As a creative thinker, I thrive in coming up with outside-the-box solutions to complex and compelling problems.</p>
                 <p>
-                    I am a rising 3rd year at the University of California, Los Angeles working towards a B.S. in Computer Science and Engineering. Some of my relevent coursework includes 
-                    Operating Systems, Computer Programming in C/C++, Computer Architecture, Intro to Electrical Engineering, Computer Graphics,  and Discrete Structures. I'm also pretty 
-                    heavily involved with Bruinracing's Baja SAE racing team, where I, as electronics lead, oversee the code design and manufacturing of an Electronic 
-                    Transmission System (you can learn more about this in the projects section). </p>
+                    I am entering my final year at the University of California, Los Angeles working towards a B.S. in Computer Science and Engineering. Some of my relevent coursework includes 
+                    Operating Systems, Programming Languages, Algorithms and Complexity, Systems and Signals, Computer Architecture,  and Discrete Structures. I'm also pretty 
+                    heavily involved with Bruinracing's Baja SAE racing team, currently as the 24-25 managing director (you can learn more about this in the projects section). </p>
 
-                <p>When I'm not glued to my computer, I enjoy aquainting myself with the great outdoors. Whether its hiking, skiing, running, or just reading a book in my hammock, spending time in the sunshine
+                <p>When I'm not glued to my computer, I enjoy aquainting myself with the great outdoors. Whether its hiking, skiing, climbing, running, or just reading a book in my hammock, spending time in the sunshine
                     is my favorite way to relax. I also enjoy expressing my creativity outside of engineering by tinkering, painting, and sewing.</p>
                 </div>
             </div>
