@@ -8,7 +8,7 @@ import Logo from './Logo'
 const Home= () => {
     const [letterClass]=useState('text-animate')
     const nameArray=['P','a','i','g','e']
-    const jobArray=['A','','S','o','f','t','w','a','r','e',' ','E','n','g','i','n','e','e','r']
+    const jobArray=['A',' ','H','a','r','d','w','a','r','e',' ','&',' ','S','o','f','t','w','a','r','e',' ','E','n','g','i','n','e','e','r']
 
     return(
         <div className="container home-page">
@@ -23,9 +23,9 @@ const Home= () => {
                     <span className={`${letterClass} _14`}> </span>   
                     <AnimatedLetters letterClass={letterClass} strArray={nameArray} idx={15} />
                     <br/>
-                    <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={22} />
+                    <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={10} />
                 </h1>
-                <h2>Operations Security | Electronics Experimentation | Control Systems</h2>
+                <h2>Software Development | Hardware Design | Control Systems</h2>
                 <Link to="/contact" className="flat-button">
                     CONTACT
                 </Link>

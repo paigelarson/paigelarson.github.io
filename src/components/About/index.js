@@ -52,10 +52,10 @@ const About = () => {
                     to plan to product. As a creative thinker, I thrive in coming up with outside-the-box solutions to complex and compelling problems.</p>
                 <p>
                     I am entering my final year at the University of California, Los Angeles working towards a B.S. in Computer Science and Engineering. Some of my relevent coursework includes 
-                    Operating Systems, Programming Languages, Algorithms and Complexity, Systems and Signals, Computer Architecture,  and Discrete Structures. I'm also pretty 
-                    heavily involved with Bruinracing's Baja SAE racing team, currently as the 24-25 managing director (you can learn more about this in the projects section). </p>
+                    Operating Systems, Programming Languages, Algorithms and Complexity, Electrical Systems and Signals, Computer Architecture, and Discrete Structures. I'm also pretty 
+                    heavily involved with Bruinracing's Baja SAE racing team, currently as Model 24's managing director (you can learn more about this in the projects section). </p>
 
-                <p>When I'm not glued to my computer, I enjoy aquainting myself with the great outdoors. Whether its hiking, skiing, climbing, running, or just reading a book in my hammock, spending time in the sunshine
+                <p>When I'm not working on a project, I enjoy aquainting myself with the great outdoors. Whether it's hiking, skiing, climbing, running, or just reading a book in my hammock, spending time in the sunshine
                     is my favorite way to relax. I also enjoy expressing my creativity outside of engineering by tinkering, painting, and sewing.</p>
                 </div>
             </div>
