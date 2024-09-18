@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc5013e0.css",
-    "main.js": "/static/js/main.276bbb84.js",
+    "main.css": "/static/css/main.b96232f5.css",
+    "main.js": "/static/js/main.cfc75072.js",
     "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
-    "static/media/baja_present.JPG": "/static/media/baja_present.5ce876d6ecbf07285478.JPG",
+    "static/media/baja_banquet.jpg": "/static/media/baja_banquet.334d5618403e17c1e8b1.jpg",
     "static/media/me.jpg": "/static/media/me.d6fc20184e7cc6f29210.jpg",
+    "static/media/stell_me_crop.jpg": "/static/media/stell_me_crop.d7856af0f0ac8e4d7fe0.jpg",
+    "static/media/baja_car_whole.jpg": "/static/media/baja_car_whole.21bb9471e0fc35ad4a86.jpg",
     "static/media/bh_internship.jpg": "/static/media/bh_internship.b8641122f6aa2607efb8.jpg",
     "static/media/website.png": "/static/media/website.300ceddde6b56e15add0.png",
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.66ae18c60dd9a2f81874.woff2",
     "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.45b485e41673e8b4b8af.woff2",
     "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.fdd68c0598e0077d23f2.ttf",
     "static/media/Paige Larson, Resume.pdf": "/static/media/Paige Larson, Resume.6e95725c3a112c926478.pdf",
+    "static/media/me_computer.jpg": "/static/media/me_computer.4889dc59107b1db566a2.jpg",
     "static/media/initials.png": "/static/media/initials.086051c0fd6092c83e1d.png",
     "index.html": "/index.html",
-    "main.bc5013e0.css.map": "/static/css/main.bc5013e0.css.map",
-    "main.276bbb84.js.map": "/static/js/main.276bbb84.js.map",
+    "main.b96232f5.css.map": "/static/css/main.b96232f5.css.map",
+    "main.cfc75072.js.map": "/static/js/main.cfc75072.js.map",
     "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc5013e0.css",
-    "static/js/main.276bbb84.js"
+    "static/css/main.b96232f5.css",
+    "static/js/main.cfc75072.js"
   ]
 }
